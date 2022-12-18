@@ -7,10 +7,11 @@
 Bikeshare Project 
 
 ### Description
-Describe what your project is about and what it does
+A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. 
 
 ### Files used
-Include the files used
+workspace
+pdsnd_github
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
