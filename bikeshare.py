@@ -186,6 +186,8 @@ def GPA():
 
 def printinfo()
 print("raghad")
+print("managmennt information system")
+
     # TO DO: Display earliest, most recent, and most common year of birth
     print('the earliest year is: ' , df['Birth Year'].min() )
     print('the recent year is: ' , df['Birth Year'].max() )
