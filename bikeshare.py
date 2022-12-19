@@ -181,6 +181,10 @@ def user_stats(df,city):
     if city != 'washington':
         print('the count of genders are: ' , df['Gender'].value_counts() )
 
+def GPA():
+    print(4.61 out 5)
+
+
     # TO DO: Display earliest, most recent, and most common year of birth
     print('the earliest year is: ' , df['Birth Year'].min() )
     print('the recent year is: ' , df['Birth Year'].max() )
