@@ -8,7 +8,7 @@
 bikeshare Project Title
 
 ### Description
-Describe what your project is about and what it does
+A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. 
 
 ### Files used
 Include the files used
