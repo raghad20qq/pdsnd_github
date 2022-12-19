@@ -2,6 +2,7 @@
 
 ### Date created
 19 des 22
+4:32pm
 
 ### Project Title
 
@@ -11,11 +12,14 @@ bikeshare Project Title
 A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. 
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+1-chicago.csv
+2-new_york_city.csv
+3-washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 ### about me 
 i am raghad, i am fresh graduated from imamu
+my college is economics and administrative science
+major bachelor of managment information system
+i'm 22
+ 
