@@ -11,8 +11,9 @@ bikeshare Project Title
 A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. 
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
