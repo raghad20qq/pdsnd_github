@@ -184,7 +184,8 @@ def user_stats(df,city):
 def GPA():
     print(4.61 out 5)
 
-
+def printinfo()
+print("raghad")
     # TO DO: Display earliest, most recent, and most common year of birth
     print('the earliest year is: ' , df['Birth Year'].min() )
     print('the recent year is: ' , df['Birth Year'].max() )
